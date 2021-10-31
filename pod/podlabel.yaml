@@ -148,4 +148,4 @@ spec:
     ports:
     - containerPort: 80
   nodeSelector:
-    hddtype: ssd
+    hddtype: hdd
