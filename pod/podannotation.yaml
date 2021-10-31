@@ -4,7 +4,7 @@ metadata:
   name: annotationpod
   annotations:
     owner: "Ozgur OZTURK"
-    notification-email: "admin@k8sfundamentals.com"
+    notification-email: "test@k8sfundamentals.com"
     releasedate: "01.01.2021"
     nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
 spec:
